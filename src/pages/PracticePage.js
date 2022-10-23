@@ -1,7 +1,7 @@
 import React from 'react';
 
 const PracticePage = () => {
-  return <div>PracticePage</div>;
+  return <div>PracticePage with</div>;
 };
 
 export default PracticePage;
